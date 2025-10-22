@@ -1,0 +1,3 @@
+libopencv-dev
+libavdevice-dev
+libsndfile1

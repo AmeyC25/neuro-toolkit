@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+streamlit
+mediapipe
+streamlit-webrtc
+librosa
+sounddevice
+scipy
+parselmouth-praat

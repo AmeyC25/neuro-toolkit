@@ -1,0 +1,15 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Audio files
+*.wav
+*.mp3
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
