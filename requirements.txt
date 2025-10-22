@@ -6,4 +6,4 @@ streamlit-webrtc
 librosa
 sounddevice
 scipy
-parselmouth-praat
+parselmouth
